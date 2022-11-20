@@ -16,7 +16,7 @@ We want you to process the data using any technique(s) of your choosing, for exa
 
 You can use any programming language in the analysis. We then want you to write up the work in **no more than two pages**.
 
-Please send your code and report by the date mentioned is your test invitie to david.sgorbati@nhs.net.
+Please send your code and report by the date mentioned is your test invite to david.sgorbati@nhs.net
 
 This is your opportunity to showcase your skills and to demonstrate that you would be suitable for this role in our team.
 
